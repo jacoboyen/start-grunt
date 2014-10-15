@@ -1,8 +1,10 @@
 # Get started with Grunt
 
-A poster session at #heweb14.
+A poster session at #heweb14. [Download the poster](https://github.com/jacoboyen/start-grunt/raw/master/presentation/Poster.pdf).
 
-The following is a simple Grunt setup that will show you how to add grunt tasks and setup the watch plugin to watch files.
+---------------------------------------
+
+Grunt is a task automater that helps you perform common repetitive tasks while developing a website. The following is a simple Grunt setup that demonstrates how to add grunt tasks and setup the watch plugin to watch files.
 
 ---------------------------------------
 ## Setup your computer
