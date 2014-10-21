@@ -67,3 +67,10 @@ Compare your ```gruntfile.js``` to the ```gruntfile.complete.js``` in this repos
 ## Explore other task options.
 
 Visit the Grunt plugins page: http://gruntjs.com/plugins to add additional tasks to your project. 
+
+## Resources
+
+* [Grunt for People Who Think Things Like Grunt are Weird and Hard - 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+* [Get up and running with Grunt - Smashing Magazine](http://www.smashingmagazine.com/2013/10/29/get-up-running-grunt/)
+* [First moments with Grunt - CSS Tricks](http://css-tricks.com/video-screencasts/130-first-moments-grunt/)
+* [Chris Coyier's Grunt boilerplate](https://github.com/chriscoyier/My-Grunt-Boilerplate/)
